@@ -1,0 +1,1 @@
+// Currently using AOS (Animate On Scroll), so no extra JS needed
